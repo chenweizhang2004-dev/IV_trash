@@ -27,9 +27,9 @@ export default function Home() {
         </Link>
  
         <div className="byline">
-          <span><bold>Kenneth Smith</bold><br/>UC  Santa Barbara</span>
-          <span><bold>J. M. Forester</bold><br/>Zombie Biology Institute</span>
-          <span><bold>Jim McHiggleteeth</bold><br/>Zombie Biology Institute</span>
+          <span><strong>Kenneth Smith</strong><br/>UC  Santa Barbara</span>
+          <span><strong>J. M. Forester</strong><br/>Zombie Biology Institute</span>
+          <span><strong>Jim McHiggleteeth</strong><br/>Zombie Biology Institute</span>
         </div><br />
         <Admonition type="note" title="Key Takeaways">
           <ul>
