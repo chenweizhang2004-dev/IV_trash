@@ -11,6 +11,7 @@ const PAPER = '/paper/zombie';
  *
  * Each link's #anchor must match the {#anchor} at the end of a heading
  * in whitepaper.md. If you rename a heading's anchor, change it here too.
+ */
 
 const sidebars = {
   tutorialSidebar: [
