@@ -10,10 +10,8 @@ const PAPER = '/paper/zombie';
  * sidebar on the left plus a separate on-page TOC on the right.
  *
  * Each link's #anchor must match the {#anchor} at the end of a heading
- * in Zombie.md. If you rename a heading's anchor, change it here too.
- *
- * @type {import('@docusaurus/plugin-content-docs').SidebarsConfig}
- */
+ * in whitepaper.md. If you rename a heading's anchor, change it here too.
+
 const sidebars = {
   tutorialSidebar: [
     {
