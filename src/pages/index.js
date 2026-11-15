@@ -8,7 +8,7 @@ import Admonition from '@theme/Admonition';
 const PAPER_URL = '/paper/zombie';
  
 const takeaways = [
-  'Zombie are real. All the biological evidence points to their existence.',
+  'Zombies are real. All the biological evidence points to their existence.',
   'Our survey indicates that some Isla Vista residents are ill-prepared to face a zombie apocalypse.',
   'Isla Vista needs to increase the purchase of small munitions and build a perimeter wall to protect our residents.',
 ];
