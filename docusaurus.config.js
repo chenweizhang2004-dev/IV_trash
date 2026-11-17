@@ -7,9 +7,9 @@ const config = {
 
   future: {},
 
-  url: 'https://chenweizhang2004.github.io',
+  url: 'https://chenweizhang2004-dev.github.io',
   baseUrl: '/IV_trash/',
-  organizationName: 'chenweizhang2004',
+  organizationName: 'chenweizhang2004-dev',
   projectName: 'IV_trash',
   trailingSlash: false,
   onBrokenLinks: 'throw',
