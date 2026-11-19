@@ -83,6 +83,8 @@ We need to grow much more comfortable sacrificing our fellow humans if we are to
 
 We hope that this information inspires immediate action among Isla Vista residents. We can't wait for the zombies to arrive before we act. Mathematical models of an outbreak suggest that only quick, aggressive action can prevent the collapse of society once zombies appear [2]. Every month of delay makes the walls more expensive and the hordes harder to stop. We urge the district's Board of Directors to adopt the four-step plan before the end of the year.
 
+![Pepper](/img/pepper.jpg)
+
 ---
 
 ### Appendix A. Survey Methodology {#appendix-a}
