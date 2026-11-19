@@ -24,6 +24,16 @@ The Isla Vista Community Services District[^ivcsd] must immediately draft a form
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
+
+<iframe
+  title="I feel comfortable firing a gun."
+  aria-label="Grouped column chart"
+  src="https://datawrapper.dwcdn.net/0ZGlV/1/"
+  height="476"
+  style={{ width: '100%', border: 'none' }}
+></iframe>
+
+
 Two esteemed biologists have made the following observations about the existence of zombies:
 
 > "We know that they are here and live among us. That has been conclusively proven. The only question is when they are coming for us." — E. O. Wilson
